@@ -22,6 +22,9 @@ metadata:
 Use Xquik when an app, launch, growth, support, or research task needs current
 X/Twitter context through an authorized API or MCP workflow.
 
+Xquik is an independent third-party service. Not affiliated with X Corp.
+"Twitter" and "X" are trademarks of X Corp.
+
 ## Trigger
 
 Use this skill for requests that mention:
