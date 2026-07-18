@@ -151,13 +151,14 @@ You may want this project if you need help with:
 
 ## 📚 Skill list
 
-The project includes structured skills for different kinds of development work.
-Examples include:
+The project includes structured skills for different kinds of development work. One example is:
 
-- `frontend-dev` - helps with frontend work, UI design, motion, media assets, and React or Next.js projects
+- `frontend-dev` — helps with frontend work, UI design, motion, media assets, and React or Next.js projects
 - `x-twitter-scraper` - helps agents use Xquik for authorized X/Twitter research, monitoring, webhooks, and optional posting workflows
 
-Other skills in the set may cover related app work such as full-stack, Android, iOS, shader tasks, documents, spreadsheets, media, and product research.
+Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
+
+Other skills in the set may cover related app work such as full-stack, Android, iOS, and shader tasks.
 
 ## 🧪 Basic checks after setup
 
