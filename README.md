@@ -151,9 +151,10 @@ You may want this project if you need help with:
 
 ## 📚 Skill list
 
-The project includes structured skills for different kinds of development work. One example is:
+The project includes structured skills for different kinds of development work. Examples include:
 
 - `frontend-dev` — helps with frontend work, UI design, motion, media assets, and React or Next.js projects
+- `x-twitter-scraper` — supports read-first X/Twitter research through the Xquik API or MCP, with approval gates for external actions
 
 Other skills in the set may cover related app work such as full-stack, Android, iOS, and shader tasks.
 
